@@ -1,4 +1,4 @@
 # Adith
-hello
-Computer science engineering student
+- hello
+- Computer science engineering student
 # skills
